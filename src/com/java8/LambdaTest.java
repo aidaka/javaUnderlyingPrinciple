@@ -1,4 +1,4 @@
-package com.ifinance;
+package com.java8;
 
 public class Main {
 
